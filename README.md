@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **youssefazam99@gmail.com**  
 
-- 📄 View my CV: [Here](https://drive.google.com/file/d/1f5QHiwT8u1d_6iTqOMT9-fT5JxQwoJcV/view?usp=sharing)  
+- 📄 View my CV: [Here](https://drive.google.com/file/d/1J782lspCcC3O8ZrEpjMlDTnobcadZPZM/view?usp=sharing)  
 
 - 🌐 My Portfolio: [youssef-azam.github.io](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)  
 
