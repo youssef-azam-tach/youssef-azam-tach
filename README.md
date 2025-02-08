@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Youssef Azam, a Business Intelligence Developer & Data Scientist from Egypt</h3>
+<h3 align="center">I'm Youssef Azam, a Business Intelligence Developer & Data Engineer from Egypt</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-azam&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-azam" /> </p>
 
 - 🌱 I’m currently studying **Data Engineering** and expanding my expertise in **BI, Data Science, Machine Learning, and Data Analysis**  
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **youssefazam99@gmail.com**  
 
-- 📄 View my CV: [Here](https://drive.google.com/file/d/1xRPuyw5jJ84v_YKy4p2_RjyvGOUFr8Rp/view?usp=drivesdk)  
+- 📄 View my CV: [Here](https://drive.google.com/file/d/1f5QHiwT8u1d_6iTqOMT9-fT5JxQwoJcV/view?usp=sharing)  
 
 - 🌐 My Portfolio: [youssef-azam.github.io](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)  
 
@@ -80,7 +80,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-azam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/youseefaazam.azzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef-azam" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yossefazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssef-azam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yossefazam549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef-azam" height="30" width="40" /></a>
 </p>
