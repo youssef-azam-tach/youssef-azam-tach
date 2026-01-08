@@ -125,13 +125,6 @@ I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI 
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=youssef-azam&show_icons=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-azam&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-azam)
-
 ---
 
 ⭐ *Feel free to explore my repositories or reach out for collaboration!*
