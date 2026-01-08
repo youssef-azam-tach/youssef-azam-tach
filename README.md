@@ -1,115 +1,138 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Youssef Azam, a Business Intelligence Developer & Data Engineer from Egypt</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-azam&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-azam" /> </p>
+# Hi there! 👋
 
-- 🌱 I’m currently studying **Data Engineering** and expanding my expertise in **BI, Data Science, Machine Learning, and Data Analysis**  
-
-- 💼 Currently working as a **BI Developer / Data Engineer at Corelia**  
-
-- 💬 Ask me about **Data Engineering, BI, SQL, Power BI, and Machine Learning**  
-
-- 📫 How to reach me: **youssefazam99@gmail.com**  
-
-- 📄 View my CV: [Here](https://drive.google.com/file/d/1N8ZnHaAt-sNmZ7jWzJB5Jq23nLyAWVB3/view?usp=sharing)  
-
-- 🌐 My Portfolio: [youssef-azam.github.io](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)  
+## I'm Youssef Azam
+**Data Engineer | Business Intelligence Developer**  
+📍 Egypt (Giza)  
+📧 youssefazam99@gmail.com  
+🔗 [GitHub](https://github.com/youssef-azam) | [LinkedIn](https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/) | [Portfolio](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)
 
 ---
 
-<h3 align="left">Experience:</h3>
+## 👨‍💻 About Me
+Data Engineer with hands-on experience designing and operating **large-scale ETL / ELT pipelines** and modern data platforms. I have processed **70M+ records** using **Apache Spark**, optimized analytical databases, and enabled data consumption for **BI and AI pipelines**.
 
-- **Corelia** (07/2024 – Present) - **Data Engineer / Business Intelligence**  
-  - Extensive experience with Power BI, SQL, ETL, data modeling, and ML models.  
-
-- **Masria Digital Payments** (08/2024 – 09/2024) - **Data Analytics Internship**  
-  - Worked on SQL performance optimization and Tableau-based analytics.  
-
-- **Best One** (06/2023 – 05/2024) - **Data Analyst (Shipping & Trade Sector)**  
-  - Conducted large-scale data analysis using Power BI, Excel, and Power Query.  
-
-- **Credit Agricole Egypt** (08/2023 – 09/2023) - **Data Scientist / BI Developer Internship**  
-  - Built an **RFM model** using Oracle Data Mining and gained **BI & Data Warehousing** experience.  
+I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI & Tableau)**, with practical exposure to **AWS, Snowflake, Kafka, Airflow, and DBT** through real-world projects.
 
 ---
 
-<h3 align="left">Projects:</h3>
+## 💼 Experience
 
-- **[Data Warehouse Solution for Supermarket Management](https://github.com/youssef-azam/Data_Warehouse_supermarket-)**  
-  - Designed ERD, implemented schema, built an ETL pipeline using **SSIS**, and created Power BI reports.  
-
-- **[Data Visualization Using Tableau](https://www.kaggle.com/code/yossefazam/data-visualization-using-tableau)**  
-  - Developed a dynamic Tableau dashboard to visualize sales trends and optimize decision-making.  
-
-- **[RFM Model](https://github.com/youssef-azam/Broadcast_Chunnel_Analysis-/tree/main)**  
-  - Built a customer segmentation model based on Recency, Frequency, and Monetary value.  
-
-- **[Broadcast Channel Analysis](https://github.com/youssef-azam/Broadcast_Chunnel_Analysis-/tree/main)**  
-  - Created Power BI dashboards and presented insights in a structured **PowerPoint report**.  
-
-- **[Agricultural Association System](https://github.com/youssef-azam/Agricultural_association)**  
-  - Developed a database system for **Ministry of Agriculture**, utilizing **SQL Server & Power BI**.  
+### **Corelia** — *Data Engineer (Data Platforms & Pipelines)*  
+📅 **07/2024 – Present | Cairo, Egypt**
+- Designed and implemented **large-scale ETL pipelines** using **Apache Spark** to ingest data from external APIs into **PostgreSQL**, processing **70M+ records**.
+- Optimized query performance using **indexing, partitioning, and query tuning**, reducing execution time from **5 minutes to ~15 seconds**.
+- Built **data-serving APIs (FastAPI)** as a lightweight access layer for analytics and downstream systems.
+- Designed data infrastructure for **AI pipelines**, including:
+  - Object storage using **MinIO** for raw and processed assets.
+  - Metadata, lineage, and asset relationship tracking in **PostgreSQL**.
+  - Integration with AI processing jobs for end-to-end data lifecycle traceability.
 
 ---
 
-<h3 align="left">Skills:</h3>
-
-- **Data Warehouse & ETL:** **SSIS, PowerCenter, SSAS, SSRS, Oracle BI**  
-- **BI Tools:** **Power BI, Tableau**  
-- **Programming Languages:** **Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, C++**  
-- **Database & Data Engineering:** **SQL Server, MySQL, Oracle Data Mining**  
-- **Machine Learning:** **Predictive Analytics, Oracle Data Mining**  
-- **Other:** **Data Modeling, Data Cleaning, Analytical Thinking, Problem-Solving**  
+### **Masria Digital Payments** — *Data Analytics Intern*  
+📅 **08/2024 – 09/2024 | Cairo, Egypt**
+- Worked extensively with **SQL and Tableau**.
+- Optimized SQL queries to improve dashboard performance and analytical efficiency.
 
 ---
 
-<h3 align="left">Certifications:</h3>
-
-- **IBM Data Science Professional Certificate**  
-- **Practical Machine Learning for Data Scientists - Coursera**  
-
----
-
-<h3 align="left">Activities & Achievements:</h3>
-
-- **ICPC Contestant (2022 & 2023)** – Egyptian Collegiate Programming Contest  
-- **GDSC Al-Azhar University** – Core Team (Data Science)  
-- **SAS Curiosity Cup Hackathon (Ranked 27th of 107 Teams)**  
+### **Best One** — *Data Analyst*  
+📅 **06/2023 – 05/2024 | Remote (Saudi Arabia)**
+- Performed large-scale data analysis for **shipping, import, and export** operations.
+- Built analytical reports using **Power BI, Excel, and Power Query** to support operational decision-making.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-azam" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yossefazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssef-azam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yossefazam549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef-azam" height="30" width="40" /></a>
-</p>
+### **Credit Agricole Egypt** — *Data Scientist & BI Developer Intern*  
+📅 **08/2023 – 09/2023 | Cairo, Egypt**
+- Built a **Customer RFM model** using **Oracle Data Mining**.
+- Gained hands-on experience in **BI, Data Warehousing, and analytical reporting**.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</p>
+## 🚀 Projects
+
+### **Real-Time AI-Powered Drowsiness Detection System (Graduation Project)**
+- Developed a real-time AI-based drowsiness detection system integrated with **Raspberry Pi** for vehicle control.
+- Built a **real-time data pipeline** using **Kafka, Spark Streaming, PostgreSQL, and Debezium**.
+- Designed **Grafana dashboards** for real-time monitoring.
+- Awarded **A+** for practical road safety impact.
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+### **Job Data Warehouse (Airflow, Snowflake & DBT)**
+- Built an automated **ELT pipeline** using **Airflow, Spark, Snowflake**, and **DBT**.
+- Collected job market data from multiple sources using **JobSpy**.
+- Migrated from single-source ETL to **multi-source ELT architecture** with transformations inside Snowflake.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-azam&show_icons=true&locale=en&layout=compact" alt="youssef-azam" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-azam&show_icons=true&locale=en" alt="youssef-azam" />
-</p>
+### **Data Warehouse for Supermarket Management**
+- Designed **ERD and dimensional models**.
+- Built ETL pipelines using **SSIS**.
+- Created analytical dashboards using **Power BI**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-azam&" alt="youssef-azam" />
-</p>
+---
+
+## 🧠 Skills
+
+### **Data Engineering & Big Data**
+- ETL / ELT Pipelines, Batch Processing, API-Based Ingestion
+- **Apache Spark (PySpark)**, Kafka, Hadoop Ecosystem, Hive
+
+### **Databases & Storage**
+- PostgreSQL (Optimization, Indexing, Partitioning)
+- SQL Server, MySQL, Oracle
+- Object Storage (MinIO)
+
+### **Cloud & DevOps**
+- AWS (Hands-on projects)
+- Snowflake, Docker
+- Airflow, DBT
+
+### **BI & Analytics**
+- Power BI, Tableau, Oracle BI
+- Data Modeling (Star & Snowflake Schemas)
+
+### **Programming**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL, C++ (OOP)
+
+### **Other**
+- Web Scraping (BeautifulSoup, Selenium)
+- Data APIs (FastAPI)
+
+---
+
+## 🎓 Education
+**B.Sc. in Computers & Artificial Intelligence**  
+**Beni-Suef University**  
+📅 2021 – 06/2025  
+🎓 GPA: **3.16 / 4.00**
+
+---
+
+## 📜 Certifications
+- IBM Data Science & Data Visualization (Excel, Power BI, Tableau)
+- Data Analyst with SQL Server — DataCamp
+- Practical Machine Learning for Data Scientists
+
+---
+
+## 🏆 Activities & Achievements
+- **ICPC Contestant** — Egyptian Collegiate Programming Contest (2022 & 2023)
+- **GDSC Al-Azhar University** — Core Team (Data Science)
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=youssef-azam&show_icons=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-azam&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-azam)
+
+---
+
+⭐ *Feel free to explore my repositories or reach out for collaboration!*
+
