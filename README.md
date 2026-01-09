@@ -4,7 +4,7 @@
 **Data Engineer | Business Intelligence Developer**  
 📍 Egypt (Giza)  
 📧 youssefazam99@gmail.com  
-🔗 [GitHub](https://github.com/youssef-azam) | [LinkedIn](https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/) | [Portfolio](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)
+🔗 [LinkedIn](https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/) | [Portfolio](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)
 
 ---
 
