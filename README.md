@@ -2,23 +2,23 @@
 
 ## I'm Youssef Azam
 **Data Engineer | Business Intelligence Developer**  
-📍 Egypt (Giza)  
-📧 youssefazam99@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/) | [Portfolio](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)
+- Egypt (Giza)  
+- youssefazam99@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/youssef-azam-%F0%93%82%86-a36816231/) | [Portfolio](https://youssef-azam.github.io/YoussefAzam_Portfolio/#header)
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 Data Engineer with hands-on experience designing and operating **large-scale ETL / ELT pipelines** and modern data platforms. I have processed **70M+ records** using **Apache Spark**, optimized analytical databases, and enabled data consumption for **BI and AI pipelines**.
 
 I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI & Tableau)**, with practical exposure to **AWS, Snowflake, Kafka, Airflow, and DBT** through real-world projects.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Corelia** — *Data Engineer (Data Platforms & Pipelines)*  
-📅 **07/2024 – Present | Cairo, Egypt**
+ **07/2024 – Present | Cairo, Egypt**
 - Designed and implemented **large-scale ETL pipelines** using **Apache Spark** to ingest data from external APIs into **PostgreSQL**, processing **70M+ records**.
 - Optimized query performance using **indexing, partitioning, and query tuning**, reducing execution time from **5 minutes to ~15 seconds**.
 - Built **data-serving APIs (FastAPI)** as a lightweight access layer for analytics and downstream systems.
@@ -30,27 +30,27 @@ I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI 
 ---
 
 ### **Masria Digital Payments** — *Data Analytics Intern*  
-📅 **08/2024 – 09/2024 | Cairo, Egypt**
+ **08/2024 – 09/2024 | Cairo, Egypt**
 - Worked extensively with **SQL and Tableau**.
 - Optimized SQL queries to improve dashboard performance and analytical efficiency.
 
 ---
 
 ### **Best One** — *Data Analyst*  
-📅 **06/2023 – 05/2024 | Remote (Saudi Arabia)**
+ **06/2023 – 05/2024 | Remote (Saudi Arabia)**
 - Performed large-scale data analysis for **shipping, import, and export** operations.
 - Built analytical reports using **Power BI, Excel, and Power Query** to support operational decision-making.
 
 ---
 
 ### **Credit Agricole Egypt** — *Data Scientist & BI Developer Intern*  
-📅 **08/2023 – 09/2023 | Cairo, Egypt**
+ **08/2023 – 09/2023 | Cairo, Egypt**
 - Built a **Customer RFM model** using **Oracle Data Mining**.
 - Gained hands-on experience in **BI, Data Warehousing, and analytical reporting**.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### **Real-Time AI-Powered Drowsiness Detection System (Graduation Project)**
 - Developed a real-time AI-based drowsiness detection system integrated with **Raspberry Pi** for vehicle control.
@@ -74,7 +74,7 @@ I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI 
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### **Data Engineering & Big Data**
 - ETL / ELT Pipelines, Batch Processing, API-Based Ingestion
@@ -104,22 +104,22 @@ I work mainly with **Python, SQL, PostgreSQL, Spark**, and **BI tools (Power BI 
 
 ---
 
-## 🎓 Education
+## Education
 **B.Sc. in Computers & Artificial Intelligence**  
 **Beni-Suef University**  
-📅 2021 – 06/2025  
-🎓 GPA: **3.16 / 4.00**
+2021 – 06/2025  
+GPA: **3.16 / 4.00**
 
 ---
 
-## 📜 Certifications
+## Certifications
 - IBM Data Science & Data Visualization (Excel, Power BI, Tableau)
 - Data Analyst with SQL Server — DataCamp
 - Practical Machine Learning for Data Scientists
 
 ---
 
-## 🏆 Activities & Achievements
+## Activities & Achievements
 - **ICPC Contestant** — Egyptian Collegiate Programming Contest (2022 & 2023)
 - **GDSC Al-Azhar University** — Core Team (Data Science)
 
